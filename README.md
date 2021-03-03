@@ -1,4 +1,4 @@
-# Twitter reply bot
+# 🐦 Twitter reply bot
 ---
 
 #### Instructions
